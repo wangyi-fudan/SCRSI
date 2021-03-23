@@ -1,5 +1,5 @@
-# SCI: Single Cell RNA-Seq Imputation
+# SCRSI: Single Cell RNA-Seq Imputation
 
 Usage: 
 
-./SCI input.mat output #singular_vector(~4) [iterations=256]
+./SCRSI input.mat output #singular_vector(~4) [iterations=256]
