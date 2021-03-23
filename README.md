@@ -2,4 +2,5 @@
 
 Usage: 
 
-./SCRSI input.mat output #singular_vector(~8) [iterations=256]
+./SCRSI input.mat output #singular_vector(~4) [learning_rate=1e-3] [iterations=256]
+
