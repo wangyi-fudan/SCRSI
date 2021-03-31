@@ -1,4 +1,4 @@
-# pcSVD Positive Count Singular Value Decomposition
+# pcSVD: Positive Count Singular Value Decomposition
 
 Usage: 
 
